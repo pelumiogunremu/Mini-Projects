@@ -1,2 +1,2 @@
 # Scripting-Projects
-This repository contains all my written scripts mostly in Python to a perform specific task.
+This repository contains my scripting projects mostly witten in Python for different tasks.
